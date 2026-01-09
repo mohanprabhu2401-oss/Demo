@@ -1,0 +1,5 @@
+Create table Department(
+DepartmentID int,
+DepartmentName varchar (255),
+DepartmentLocation varchar (255)
+);
